@@ -3,8 +3,8 @@
 ## [1.0.1] - March 30, 2024
 
 ### Added
-- Integration of [FETCH.AI](https://etherscan.io/token/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85) token as default on the Ethereum mainnet.
-- Integration of [OCEAN](https://etherscan.io/token/0x967da4048cD07aB37855c090aAF366e4ce1b9F48) token as default on the Ethereum mainnet.
+- Integrated of [FETCH.AI](https://etherscan.io/token/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85) token as default on the Ethereum mainnet.
+- Integrated of [OCEAN](https://etherscan.io/token/0x967da4048cD07aB37855c090aAF366e4ce1b9F48) token as default on the Ethereum mainnet.
 
 ### Improved
 - Enhanced the bridging screen with support for [DAI, USDD, USDT, USDC] tokens.
