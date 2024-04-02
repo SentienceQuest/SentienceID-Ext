@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1.1] - April 02, 2024
+
+### Fixed
+- Changed manifest version to v3.
+
+- 
 ## [1.0.1] - March 30, 2024
 
 ### Added
