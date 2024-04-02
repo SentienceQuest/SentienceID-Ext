@@ -5,7 +5,7 @@
 ### Fixed
 - Changed manifest version to v3.
 
-- 
+
 ## [1.0.1] - March 30, 2024
 
 ### Added
