@@ -1,5 +1,15 @@
 # Changelog
 
+## [v1.0.2] - April 16, 2024
+
+### Improved
+- Changed manifest version from 2 to 3.
+- 
+### Fixed
+- Corrected language text throughout the application for consistency and accuracy.
+- Fixed manifest version 3 issues to ensure compatibility and stability
+
+
 ## [v1.0.1.1] - April 02, 2024
 
 ### Fixed
