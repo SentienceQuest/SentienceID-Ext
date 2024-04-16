@@ -4,7 +4,7 @@
 
 ### Improved
 - Changed manifest version from 2 to 3.
-- 
+  
 ### Fixed
 - Corrected language text throughout the application for consistency and accuracy.
 - Fixed manifest version 3 issues to ensure compatibility and stability
