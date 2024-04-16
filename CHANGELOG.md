@@ -3,7 +3,7 @@
 ## [v1.0.2] - April 16, 2024
 
 ### Improved
-- Changed manifest version from 2 to 3.
+- Changed manifest version from 2 to 3 to reflect updates and improvements.
   
 ### Fixed
 - Corrected language text throughout the application for consistency and accuracy.
