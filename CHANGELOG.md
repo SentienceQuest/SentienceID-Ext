@@ -1,5 +1,14 @@
 # Changelog
 
+
+## [v1.0.3] - May 24, 2024
+
+### Added
+- Added EIP-6963 Feature.
+  
+
+
+
 ## [v1.0.2] - April 16, 2024
 
 ### Improved
