@@ -7,7 +7,7 @@
 - Added BASE network.
 
 ### Changed
-- Changed sentienceID name to Sentience
+- Changed SentienceID name to Sentience
 - Changed decentralized web awaits to Singularity awaits
 - Changed EIP-6963 rdns url
   
