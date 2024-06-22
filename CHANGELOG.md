@@ -1,12 +1,26 @@
 # Changelog
 
 
+## [v1.0.4] - June 22, 2024
+
+### Added
+- Added BASE network.
+
+### Changed
+- Changed setienceID name to Sentience
+- Changed decentralized web awaits to Singularity awaits
+- Changed EIP-6963 rdns url
+  
+### Fixed
+- Fixed EIP-6963 name and icon issue
+
+
+
 ## [v1.0.3] - May 24, 2024
 
 ### Added
 - Added EIP-6963 Feature.
   
-
 
 
 ## [v1.0.2] - April 16, 2024
