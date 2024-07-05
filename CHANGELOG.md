@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [v1.0.5] - July 05, 2024
+
+### Fixed
+- Resolved an issue where updates would not be properly applied unless the app was deleted. Users can now receive all updates without needing to uninstall the app.
+
+
 ## [v1.0.4] - June 22, 2024
 
 ### Added
