@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [v1.0.6] - July 17, 2024
+
+### Modified
+- Temporary swap is being turned off for all networks.
+
+
 ## [v1.0.5] - July 05, 2024
 
 ### Fixed
