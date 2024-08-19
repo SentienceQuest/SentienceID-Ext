@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [v1.0.7] - Aug 20, 2024
+
+### Added
+- Added sentience SDK provider connectivity code.
+
+
 ## [v1.0.6] - July 17, 2024
 
 ### Modified
