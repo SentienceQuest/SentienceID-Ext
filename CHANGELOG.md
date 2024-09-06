@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [v1.0.8] - Sep 06, 2024
+
+### Changed
+- Have set swap on
+
+### Fixed
+- Fixed the sdk connectivity protocol issue
+
+
 ## [v1.0.7] - Aug 20, 2024
 
 ### Added
